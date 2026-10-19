@@ -1,0 +1,15 @@
+{{today}}
+
+{{client.name}}
+{{client.email}}
+
+Re: {{matter.number}} — {{matter.title}}
+
+Dear {{client.name}}:
+
+I write to update you regarding the status of your matter. Please review any enclosed documents and contact us if you have questions or additional information.
+
+Sincerely,
+
+{{attorney.name}}
+{{firm.name}}

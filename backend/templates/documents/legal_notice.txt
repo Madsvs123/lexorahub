@@ -1,0 +1,14 @@
+NOTICE
+
+{{today}}
+
+To: {{client.name}}
+Re: {{matter.title}} — {{matter.number}}
+
+Please take notice that the following matter is pending before {{matter.court}}, docket {{matter.docket}}, the Honorable {{matter.judge}} presiding.
+
+{{matter.title}}
+
+You may contact the Firm at the address below with questions regarding this notice.
+
+{{firm.legal_name}}

@@ -1,0 +1,21 @@
+ENGAGEMENT LETTER
+
+{{today}}
+
+{{client.name}}
+{{client.email}}
+
+Re: {{matter.title}} ({{matter.number}})
+
+Dear {{client.name}}:
+
+This letter confirms that {{firm.legal_name}} ("the Firm") has been engaged to represent you in connection with {{matter.title}}. {{attorney.name}} will have primary responsibility for this matter.
+
+Fees will be billed at the rates disclosed in the accompanying schedule. A retainer may be required and held in trust. You will receive regular statements describing time, expenses, and trust activity.
+
+Please sign and return this letter to confirm the engagement.
+
+Very truly yours,
+
+{{firm.name}}
+{{attorney.name}}
